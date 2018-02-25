@@ -12,4 +12,10 @@ This is 'inline code'
 
 
 $$f(x) = x^2$$
+* 'git init': initializes repository
+* 'git add' : adds files to the track
+* 'git commit' :dedicate myself to a version
 
+---
+
+### Tracking Changes
